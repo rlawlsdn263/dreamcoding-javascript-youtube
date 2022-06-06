@@ -1,4 +1,4 @@
-/* 2.Variable */
+/* 2.Variable, rw(read/write) */
 // let (added in ES6)
 
 //선언과 동시에 값할당
